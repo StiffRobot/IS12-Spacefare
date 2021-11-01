@@ -17,9 +17,9 @@
 	#include "warfare-1.dmm"
 	#include "warfare-2.dmm"
 
-	#include "../../code/modules/lobby_music/generic_songs.dm"
+	#include "../../code/modules/lobby_music/spacefare_songs.dm"
 
-	#define using_map_DATUM /datum/map/warfare
+	#define using_map_DATUM /datum/map/spacefare
 
 #elif !defined(MAP_OVERRIDE)
 

@@ -1,8 +1,8 @@
 
 /datum/map/warfare
-	name = "Warfare"
+	name = "Spacefare"
 	full_name = "Warfare"
-	path = "warfare"
+	path = "spacefare"
 	station_name  = "Warfare"
 	station_short = "Warfare"
 	dock_name     = "Warfare"
