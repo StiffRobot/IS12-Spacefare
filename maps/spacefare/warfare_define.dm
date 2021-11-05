@@ -1,19 +1,19 @@
 
-/datum/map/warfare
+/datum/map/spacefare
 	name = "Spacefare"
-	full_name = "Warfare"
+	full_name = "Spacefare"
 	path = "spacefare"
-	station_name  = "Warfare"
-	station_short = "Warfare"
-	dock_name     = "Warfare"
+	station_name  = "Spacefare"
+	station_short = "Spacefare"
+	dock_name     = "Spacefare"
 	boss_name     = "Colonial Magistrate Authority"
 	boss_short    = "CMA"
 	company_name  = "Colonial Magistrate Space Residential Complex"
 	company_short = "CMSRC"
 	system_name = "hell"
 
-	lobby_icon = 'maps/oldfare/fullscreen.dmi'
-	lobby_screens = list("lobby1","lobby2","lobby3","lobby4","lobby5", "lobby6")
+	lobby_icon = 'maps/spacefare/fullscreen.dmi'
+	lobby_screens = list("spess1, spess2")
 
 	station_levels = list(1,2)
 	contact_levels = list(1)
